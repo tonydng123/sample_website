@@ -6,3 +6,32 @@
   text-decoration: none; 
   color: blue;
 }
+#book_title {
+  width: 500px; 
+  margin: 20px auto; 
+  padding: 30px;
+  background-color: #fafafa;
+}
+#book_img {
+  height: 200px;
+  float: left; 
+  margin-right: 40px;
+}
+#whale_img {
+  display: block; 
+  margin: 0 auto;
+}
+#my_span {
+  font-style: normal; 
+  font-size: 24px; 
+  font-weight: bold; 
+  color: #ff0000;
+}
+.quote {
+  font-style: italic; 
+  font-size: 20px;
+}
+.my_header {
+  text-align: center;
+  margin: 0 0 80px;
+}
